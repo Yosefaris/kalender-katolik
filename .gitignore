@@ -1,0 +1,17 @@
+node_modules/
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/app/src/main/assets/public/
+assets/icon.png
+assets/splash.png
+assets/media-generation-*.webp
+android/app/src/main/res/mipmap-*/
+android/app/src/main/res/drawable-*/
+android/gradle/wrapper/gradle-wrapper.jar
+android/capacitor-cordova-android-plugins/
+icons/
+www/manifest.json
+android/app/src/main/res/drawable/splash.png
+assets/media-generation-*.json
