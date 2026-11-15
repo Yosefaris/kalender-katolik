@@ -1,0 +1,6 @@
+{
+  "appId": "com.yos.kalenderkatolik",
+  "appName": "Kalender Katolik",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
